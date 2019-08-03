@@ -10,7 +10,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello World")
+        TabbedView {
+            BoardList()
+                .tabItem { Text("Boards") }
+            .tag(0)
+        }
     }
 }
 

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "커뮤니티",
+        "boards": [
+            {
+                "name": "IT 뉴스",
+                "id": "news"
+            },
+            {
+                "name": "미니기기/IT",
+                "id": "mini"
+            },
+            {
+                "name": "자유 게시판",
+                "id": "free"
+            },
+            {
+                "name": "갤러리",
+                "id": "gallery"
+            },
+            {
+                "name": "장터 게시판",
+                "id": "market"
+            },
+            {
+                "name": "유머 게시판",
+                "id": "humor"
+            },
+        ]
+    }
+]
